@@ -33,6 +33,7 @@
     <div class="container">
         <h1>Proyecto en Laravel</h1>
         <p>El entorno esta configurado correctamente sin conexion a base de datos.</p>
+       
     </div>
 </body>
 </html>
